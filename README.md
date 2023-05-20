@@ -1,4 +1,4 @@
-# unbiasedness-simulation
+# unbiasedness
 
 This simulation-study proves the unbiasedness of the Sample Variance through a Monte-Carlo simulation in STATA.
 
