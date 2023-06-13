@@ -1,7 +1,4 @@
 
-
-global dir1 "~/Dropbox/Mentorship/Sample_1"
-
 clear
 local N = 5000
 local rep = 100
