@@ -2,6 +2,8 @@
 
 This simulation-study proves the unbiasedness of the Sample Variance through a Monte-Carlo simulation in STATA.
 
+This simulation is conducted using STATA since its programming capabilities facilitate the generation of multiple datasets and iterative analyses.
+
 ## Introduction
 Monte-Carlo methods are numerical techniques relying on random sampling to approximate results. This work performs a Monte-Carlo simulation in order to examine whether the sample variance is an unbiased estimator for the population variance. 
 
